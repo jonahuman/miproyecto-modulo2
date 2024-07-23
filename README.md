@@ -40,28 +40,28 @@ Este proyecto se basa en la simulación de autómatas celulares, un modelo matem
 
 3. **Capturas de pantalla o imágenes**:
 
-## 1. Estructura original
+3.1. Estructura original
 
 ![image](https://github.com/user-attachments/assets/b3afa0be-f3eb-4123-8832-a9d4674b62d5)
 
-## 2. Ejecución con carpeta Data.
+3.2. Ejecución con carpeta Data.
 
 ![image](https://github.com/user-attachments/assets/9062dc9f-877d-419d-9e60-50a713eb601d)
 
 ![image](https://github.com/user-attachments/assets/f2abc4e7-404a-405c-8c29-d03ae05d0f9d)
 
-## 3. Ejecución sin carpeta Data.
+3.3. Ejecución sin carpeta Data.
 
 ![image](https://github.com/user-attachments/assets/6182e09c-2170-4ee3-864a-fd8aea5986f7)
 
 ![image](https://github.com/user-attachments/assets/3bb446b0-72d7-4f2d-91fb-7024162b6591)
 
 
-## Contribución
+## 4. Contribución
 
 ¡Contribuciones son bienvenidas! Si encuentras errores, tienes ideas para mejoras o simplemente quieres colaborar, no dudes en abrir un issue o enviar un pull request. Juntos podemos hacer que este proyecto sea aún mejor.
 
-## ¿Te gusta este proyecto?
+## 5. ¿Te gusta este proyecto?
 
 Si encuentras útil este proyecto, considera darle una estrellita (⭐️) en GitHub. También puedes seguirme para estar al tanto de futuras actualizaciones y proyectos interesantes.
 
