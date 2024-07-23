@@ -59,10 +59,10 @@ Este proyecto se basa en la simulación de autómatas celulares, un modelo matem
 
 ## Contribución
 
-<h1>¡Contribuciones son bienvenidas! Si encuentras errores, tienes ideas para mejoras o simplemente quieres colaborar, no dudes en abrir un issue o enviar un pull request. Juntos podemos hacer que este proyecto sea aún mejor.</h1>
+¡Contribuciones son bienvenidas! Si encuentras errores, tienes ideas para mejoras o simplemente quieres colaborar, no dudes en abrir un issue o enviar un pull request. Juntos podemos hacer que este proyecto sea aún mejor.
 
 ## ¿Te gusta este proyecto?
 
-<h1> Si encuentras útil este proyecto, considera darle una estrellita (⭐️) en GitHub. También puedes seguirme para estar al tanto de futuras actualizaciones y proyectos interesantes.
+Si encuentras útil este proyecto, considera darle una estrellita (⭐️) en GitHub. También puedes seguirme para estar al tanto de futuras actualizaciones y proyectos interesantes.
 
-¡Gracias por tu interés en el autómata celular! Si tienes más preguntas o necesitas ayuda, no dudes en preguntar. ¡Hasta luego! </h1>
+¡Gracias por tu interés en el autómata celular! Si tienes más preguntas o necesitas ayuda, no dudes en preguntar. ¡Hasta luego!
