@@ -1,10 +1,10 @@
 # Proyecto de Autómata Celular en Java
 
-<h1>Este proyecto implementa un autómata celular en Java, explorando patrones emergentes y dinámicas interesantes.</h1>
+Este proyecto implementa un autómata celular en Java, explorando patrones emergentes y dinámicas interesantes.
 
 ## Descripción
 
-<h1>Este proyecto se basa en la simulación de autómatas celulares, un modelo matemático que representa sistemas dinámicos discretos. En nuestro caso, implementamos un autómata celular bidimensional en Java, donde cada celda evoluciona según reglas específicas.</h1>
+Este proyecto se basa en la simulación de autómatas celulares, un modelo matemático que representa sistemas dinámicos discretos. En nuestro caso, implementamos un autómata celular bidimensional en Java, donde cada celda evoluciona según reglas específicas.
 
 ## Estructura del proyecto
 
