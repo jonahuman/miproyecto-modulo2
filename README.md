@@ -1,6 +1,6 @@
 # Proyecto de Autómata Celular en Java
 
-Este proyecto implementa un autómata celular en Java, explorando patrones emergentes y dinámicas interesantes.
+Este proyecto implementa un autómata celular en lenguaje de programación Java, explorando patrones emergentes, dinámicas interesantes y programación orientada a objetos.
 
 ## Descripción
 
